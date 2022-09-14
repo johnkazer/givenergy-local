@@ -1,6 +1,6 @@
 {
-    "name": "GivEnergy Local",
+    "name": "GivEnergy Local JK",
     "hacs": "1.6.0",
-    "homeassistant": "2022.3.0",
+    "homeassistant": "2021.9.7",
     "render_readme": true
 }
